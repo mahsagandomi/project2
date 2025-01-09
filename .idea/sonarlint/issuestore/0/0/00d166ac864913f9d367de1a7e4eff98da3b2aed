@@ -1,0 +1,17 @@
+
+ˆ	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(ª‹¯Ã8ñ¹®±½2J$db3a6165-7fdc-4d0c-a634-a90df6623237
+‰
+java:S1192+"FDefine a constant instead of duplicating this literal "</id>" 4 times.(õ™ÌØ8ø¹®±½2J$49caa9ea-e231-4e19-9de3-f208713a3de4
+Í
+java:S1192'"‰Define a constant instead of duplicating this literal "<soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">" 4 times.(¸‚÷8ø¹®±½2J$6cda82c2-9193-4db2-b54f-d094e6d09cda
+™
+java:S11922"QDefine a constant instead of duplicating this literal "</soap:Envelope>" 4 times.(‹Àûøÿÿÿÿ8ø¹®±½2J$304bd507-79b5-4a57-80db-ac1c2d2cec1f
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•İÈ‚ıÿÿÿÿ8ú¹®±½2J$e9ba5213-772e-4989-8199-8093b99b3737
+v
+java:S2755~"3Disable access to external entities in XML parsing.(ğ¨ºî8İ»®±½2J$92533571-28f6-40da-bbed-c76bf70a6a0e
+r	java:S1064"+Replace this use of System.out by a logger.(•õßµüÿÿÿÿ8´¿®±½2J$d35bf830-4fdb-4369-af54-89fc0b7ab286
+m	java:S106D"+Replace this use of System.out by a logger.(¦Ì‚½8¶¿®±½2J$0f271d14-6a54-4b32-a955-fe02a0128b7c
+r	java:S106U"+Replace this use of System.out by a logger.(ÜÅÖ¬øÿÿÿÿ8¶¿®±½2J$ccc9270e-ba5d-4d7d-b111-90c3b15ad42a
+m	java:S106e"+Replace this use of System.out by a logger.(›ÎÜ8·¿®±½2J$26414a46-bd75-49c6-8880-9ba337c6d75c
+s	java:S106„"+Replace this use of System.out by a logger.(Ğëƒ­úÿÿÿÿ8¼¿®±½2J$c15e2ce2-121a-41a8-9b92-e5da8c3c0794
+n	java:S106‡"+Replace this use of System.out by a logger.(¸À»ø8½¿®±½2J$b2054589-2255-4b12-a1fa-8de4eae451c1

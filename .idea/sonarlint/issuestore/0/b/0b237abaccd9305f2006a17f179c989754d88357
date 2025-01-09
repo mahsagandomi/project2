@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á–Ì“8µ›Ç½2J$519f1d91-a2b5-4a09-9b4d-63dd0a269de6
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(øÈ‘Ïûÿÿÿÿ8¢µ›Ç½2J$719d649f-ae51-465f-900b-64b6dabddbf7
+„
+java:S1126"AReplace this if-then-else statement by a single return statement.(…ñ‰µ8¤µ›Ç½2J$ea24d262-20b9-43d7-8be4-c2c4de3cf991
+^
+java:S3626"Remove this redundant jump.(ûÁİ…8èÒ¡Ç½2J$9a8257ee-ef8d-4c63-a648-df309f792f03

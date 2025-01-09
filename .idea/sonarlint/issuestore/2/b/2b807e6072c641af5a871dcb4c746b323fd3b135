@@ -1,0 +1,8 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á™è8††éÉ½2
+
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷áÌÛ8†éÉ½2
+µ
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Ì¸€>8’†éÉ½2
+l
+java:S1874$"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(£¿œ¾ÿÿÿÿÿ8•†éÉ½2

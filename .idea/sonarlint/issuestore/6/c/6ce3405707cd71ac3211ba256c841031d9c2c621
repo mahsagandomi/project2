@@ -1,0 +1,6 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¯Õ¹øÿÿÿÿ8¹ÏæÆ½2J$3f3a70c4-d940-4bbf-a80a-63321a321a88
+„
+java:S1710"<Remove the 'NamedQueries' wrapper from this annotation group(æ‡ÝÑúÿÿÿÿ8»ÏæÆ½2J$3ba66110-9a12-4eae-82be-c8fa74328894
+¸
+java:S1130G"uRemove the declaration of thrown exception 'Exception.BirthdateException', as it cannot be thrown from method's body.(àö­É8âÏæÆ½2J$fb045d61-8e6f-4d7b-b49c-eacff89f429c

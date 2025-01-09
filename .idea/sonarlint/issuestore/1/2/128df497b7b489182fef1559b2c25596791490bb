@@ -1,0 +1,19 @@
+
+‡	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(õú¹8şµä©½2J$7ebd2940-f4fb-4a41-b220-04ffa5144a68
+‡	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(õú¹8ÿµä©½2J$8f02c3d4-5303-45fc-aa20-62a506814b19
+‡	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(õú¹8®…Äª½2J$12878439-3f2f-4cb4-b138-9bbbefe0e190
+‡	java:S112h"FDefine and throw a dedicated exception instead of using a generic one.(õú¹8›·£«½2J$daeb503f-a492-4adb-9778-fe62a944e291
+™
+java:S1192%"QDefine a constant instead of duplicating this literal "application/json" 5 times.(ƒì’÷øÿÿÿÿ8€¶ä©½2J$0230a5a4-3d51-4e53-8940-fc45feee5ba9
+
+java:S1192)"\Define a constant instead of duplicating this literal "Failed : HTTP error code : " 4 times.(õú¹8¶ä©½2J$eaa54be6-0459-4acd-871f-933e11f2a19c
+
+java:S1192%"GDefine a constant instead of duplicating this literal "accept" 3 times.(ƒì’÷øÿÿÿÿ8¶ä©½2J$0df68022-c1cc-4a5e-acb9-7ffd202da71b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•İÈ‚ıÿÿÿÿ8„¶ä©½2J$3b8de5db-fbce-42e4-be80-4b47200ee41f
+l	java:S106/"+Replace this use of System.out by a logger.(³ÿØn8®¶ä©½2J$54c08b41-c465-497e-8290-3c357649b280
+m	java:S1061"+Replace this use of System.out by a logger.(¢àóÄ8¯¶ä©½2J$201aa905-03c5-40a8-a0ce-7773f08aecea
+m	java:S106F"+Replace this use of System.out by a logger.(†‹£¨8´¶ä©½2J$e7f614f4-352f-4299-8c40-10f476488e69
+r	java:S106["+Replace this use of System.out by a logger.(ÍÉ†™şÿÿÿÿ8ñ…Äª½2J$de1bab8f-9a67-487b-bca2-840b1d1f92a5
+r	java:S106l"+Replace this use of System.out by a logger.(£ëåøÿÿÿÿ8ôÈ£«½2J$477061e3-047e-4c8f-8671-87fb107a24ac
+
+java:S1128"KRemove this unused import 'org.apache.http.client.ClientProtocolException'.(Ê‰êÀ8Ğ¶ä©½2J$c827baa4-1727-4f0d-910c-7f3aa1b41552

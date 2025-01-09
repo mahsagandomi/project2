@@ -1,0 +1,44 @@
+
+‰
+java:S1192@"HDefine a constant instead of duplicating this literal "</body>" 4 times.(ÂğÕúÿÿÿÿJ$3410e62b-3edf-438f-a9c0-f195d7237b36
+„
+java:S1192*"HDefine a constant instead of duplicating this literal "</head>" 4 times.(‚ïÄ¿J$19625843-f42d-40e4-9fff-c9d922ebf0ad
+Ã
+java:S1192W"†Define a constant instead of duplicating this literal "<p style='color: red;'>Customer not found. Please try another ID.</p>" 3 times.(á¤š‚J$4d1b5051-69e4-41c4-951f-e82994621abe
+Î
+java:S1192Z"‘Define a constant instead of duplicating this literal "<p style='color: red;'>An unexpected error occurred. Please try again later.</p>" 3 times.(ßâŞæJ$78ff55fb-309b-493c-b0c5-dc08de321ea4
+ˆ
+java:S1192'"GDefine a constant instead of duplicating this literal "<html>" 4 times.(‹æÛûÿÿÿÿJ$c6240704-cd32-408f-a0c8-aa0de7a3c858
+Ì
+java:S1192T"Define a constant instead of duplicating this literal "<p style='color: red;'>Invalid customer ID. Please provide a valid number.</p>" 3 times.(±…ŸÖJ$fa103a3c-9bd2-4620-a620-a461f1568cd9
+‘
+java:S1192S"VDefine a constant instead of duplicating this literal "Invalid customer ID: " 4 times.(ÉÛ·1J$50f11987-f23d-4529-afc6-331e3eb0736f
+ˆ
+java:S1192("GDefine a constant instead of duplicating this literal "<head>" 4 times.(„Ş¿ÈıÿÿÿÿJ$b63115d4-b556-4b48-9c7f-63268e55c744
+”
+java:S1192+"YDefine a constant instead of duplicating this literal "<body bgcolor=\"white\">" 4 times.(ÙûÉ^J$f8e2e87c-cca2-44e3-9d06-acc83b3974db
+…
+java:S1192$"JDefine a constant instead of duplicating this literal "text/html" 4 times.(µ°HJ$6968ef65-db8a-48e8-90b6-cc606020dc69
+‰
+java:S1192A"HDefine a constant instead of duplicating this literal "</html>" 4 times.(îøŸ‹ùÿÿÿÿJ$ba10cd35-92c4-4109-a99d-41f309a750f2
+
+java:S1192Y"]Define a constant instead of duplicating this literal "An unexpected error occurred" 3 times.(„²òíıÿÿÿÿJ$cf65ddd5-a20b-4269-8dc2-bc706f06cdbd
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìã³ğùÿÿÿÿJ$9a5d63ab-06ea-40bb-b854-49a3e3dafa8c
+Œ
+java:S1989%"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞJ$e54726f3-fdab-411d-88f2-883e81a13e82
+Œ
+java:S1989H"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞJ$c6c3ccd2-44c5-43b3-abf3-c4dd96929d5b
+|
+java:S3457S"AFormat specifiers should be used instead of string concatenation.(ÉÛ·1J$5717cf95-9cf2-4272-b00b-443f849ed208
+}
+java:S3457V"AFormat specifiers should be used instead of string concatenation.(Šå¹ìJ$012e2765-d215-40a7-bf54-a7ee6c20c965
+Œ
+java:S1989g"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞJ$dbae10e8-6fd5-4229-9f07-456baedcd7c4
+|
+java:S3457r"AFormat specifiers should be used instead of string concatenation.(ÉÛ·1J$d0d25d4c-537e-49cd-a4f3-e6f16cd50614
+
+java:S1989‡"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞJ$f08904e2-54ab-4d03-b680-572fac01cbe9
+}
+java:S3457—"AFormat specifiers should be used instead of string concatenation.(ÉÛ·1J$d20a4193-8f7c-4ffe-aafd-aeef72f9e081
+g
+java:S3457›"%String contains no format specifiers.(¼Ü„¨ûÿÿÿÿJ$f5f964b8-405c-444c-814f-ee4fee30b262

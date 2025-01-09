@@ -1,0 +1,20 @@
+
+
+java:S1192H"HDefine a constant instead of duplicating this literal "</body>" 4 times.(ÂğÕúÿÿÿÿ8¹„û¯½2J$d37e98d3-3878-47be-9fd5-347bc3c49b34
+
+java:S1192/"GDefine a constant instead of duplicating this literal "<html>" 4 times.(‹æÛûÿÿÿÿ8¹„û¯½2J$957e607c-0437-41ae-a64b-64fa7af3e635
+›
+java:S11921"YDefine a constant instead of duplicating this literal "<body bgcolor=\"white\">" 4 times.(ÙûÉ^8º„û¯½2J$3be53bfe-74e7-40eb-ac37-62bebc29edc1
+Œ
+java:S1192+"JDefine a constant instead of duplicating this literal "text/html" 4 times.(µ°H8º„û¯½2J$fd5d6cc2-7882-4b0a-b919-395f5a9ecde6
+
+java:S1192I"HDefine a constant instead of duplicating this literal "</html>" 4 times.(îøŸ‹ùÿÿÿÿ8º„û¯½2J$ff1c4637-faa3-473c-b23a-db344bd91655
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìã³ğùÿÿÿÿ8¾„û¯½2J$c69f3035-7274-4b2b-a23d-703b51cbbeb8
+“
+java:S1989,"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞ8Ò„û¯½2J$bd52e9e3-a9b2-47ce-b6a7-5a7d34c423b7
+“
+java:S1989X"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞ8Ù„û¯½2J$555dc8fd-98e4-4cc6-a3d5-1f49d1a7a78d
+”
+java:S1989„"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞ8à„û¯½2J$d3749833-d108-471c-8633-a1767fb73893
+”
+java:S1989 "PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞ8ã„û¯½2J$5a4e2c6d-30ed-43a2-9b3c-fdb379c8d77d

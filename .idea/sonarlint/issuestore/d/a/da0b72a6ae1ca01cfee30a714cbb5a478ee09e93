@@ -1,0 +1,8 @@
+
+¢
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "account".(ªÿÿÈ8û¶üº2J$1d690ce6-d048-4cd0-b794-2fc53977ce37
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì²ˆ’8ş¶üº2J$e81674ac-5b5c-438e-9fd3-68672817f40d
+™
+java:S1450"VRemove the "account" field and declare it as a local variable in the relevant methods.(„•·Ô8¸è“Ş¼2J$f430ed89-7a3d-4f5f-b04e-6a353669d601
+~
+java:S1117";Rename "account" which hides the field declared at line 18.(ªÿÿÈ8‘¶üº2J$f2a7a536-df28-4b16-816f-176e8d92015a
