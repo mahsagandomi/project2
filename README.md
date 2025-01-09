@@ -1,6 +1,3 @@
-Sure! Here's a description of your project in English:
-Project Description
-
 This project is a Java-based application that demonstrates the creation and management of customers and their associated bank accounts using Java Persistence API (JPA) for database interaction. The application focuses on handling customer data, managing multiple types of bank accounts, and performing CRUD (Create, Read, Update, Delete) operations on these entities.
 
 The main components of the project are:
